@@ -3,7 +3,7 @@ public class beraksi{
         
         Mahasiswa anton = new Mahasiswa();
 
-        anton.setnama ("Anton Santoso");
+        anton.setnama ("Anton Sentosa");
         anton.setjenisKelamin("Laki-laki");
         anton.setumur(28);
         anton.setalamat("Bekasi Kota");
