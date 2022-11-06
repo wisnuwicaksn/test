@@ -31,7 +31,7 @@ public class Manusia {
     }
 
     public void cetakInfo(){
-        System.out.println("Name            : " + getnama());
+        System.out.println("Nama lagi            : " + getnama());
         System.out.println("Jenis Kelamin   : " + getjenisKelamin());
         System.out.println("Umur            : " + getumur());
         System.out.println("Alamat          : " + getalamat());
